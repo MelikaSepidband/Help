@@ -1,6 +1,6 @@
 # Help
 An organization named Help wants to help Countries that need it most. In Country dataset there are countires' situations.  
-In this programm we use Kmeans Clustering for finding out which countries need more help and suggest them to Help.  
+In this program we use K-means Clustering for finding out which countries need more help and suggest them to Help.  
   
 About the Dataset:  
 • country: Name of the country  
