@@ -15,4 +15,4 @@ About the Dataset:
 • gdpp: The GDP per capita. Calculated as the Total GDP divided by the total population  
   
   
-In Part 2 we use PCA for Dimention Reduction.
+In Part 2 we use PCA for Dimension Reduction.
